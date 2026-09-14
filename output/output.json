@@ -1,0 +1,116 @@
+[
+  {
+    "domain": "postman.com",
+    "company_overview": "Postman is the world's leading AI-native API platform that enables developers and enterprises to develop, test, manage, and distribute APIs and services across the full API lifecycle. It simplifies API collaboration and governance, serving over 40 million developers and 500,000 companies including 98% of the Fortune 500.",
+    "target_audience": "Software engineers and enterprise development teams who build, test, and manage APIs; organizations seeking API governance, observability, and lifecycle management at scale; AI agent developers and API-first businesses across virtually every industry.",
+    "contact_points": {
+      "emails": [
+        "accommodations@postman.com",
+        "help@postman.com",
+        "info-jp@postman.com",
+        "info@postman.com"
+      ],
+      "other_contacts": [
+        "+1 415 796 6470 (San Francisco HQ)",
+        "+81-3-6843-3777 (Tokyo)",
+        "(888) 616-1665 (Sales)"
+      ]
+    },
+    "leadership": [
+      {
+        "name": "Abhinav Asthana",
+        "title": "CEO & Co-founder",
+        "linkedin_url": null
+      },
+      {
+        "name": "Ankit Sobti",
+        "title": "Co-founder",
+        "linkedin_url": null
+      },
+      {
+        "name": "Abhijit Kane",
+        "title": "Co-founder",
+        "linkedin_url": null
+      }
+    ],
+    "data_confidence_score": 0.82,
+    "pages_crawled": [
+      "https://www.postman.com/",
+      "https://www.postman.com/company/about-postman/",
+      "https://www.postman.com/company/press-media/",
+      "https://www.postman.com/company/contact-sales/",
+      "https://www.postman.com/company/careers/",
+      "https://www.postman.com/company/contact-us/"
+    ],
+    "errors": []
+  },
+  {
+    "domain": "supabase.com",
+    "company_overview": "Supabase is an open-source Postgres development platform that provides developers with a complete backend infrastructure including a managed Postgres database, authentication, edge functions, real-time data synchronization, file storage, and vector embeddings. It positions itself as a scalable, production-ready alternative to Firebase, trusted by millions of developers and fast-growing companies worldwide.",
+    "target_audience": "Software developers, startups, innovation teams, and enterprises building web and mobile applications who want a managed Postgres backend without infrastructure overhead; particularly strong fit for AI-builder tools (Lovable, Bolt, v0, Claude/Cursor users), SaaS companies, and enterprise innovation teams seeking rapid prototyping with production-grade scalability and security (SOC 2, HIPAA, GDPR compliance).",
+    "contact_points": {
+      "emails": [
+        "abuse@supabase.com",
+        "help-events@supabase.com",
+        "legal@supabase.com",
+        "privacy@supabase.com",
+        "security@supabase.com"
+      ],
+      "other_contacts": [
+        "Sales demo request form: https://supabase.com/contact/sales",
+        "Discord community: https://supabase.com (Join us on Discord link)",
+        "Support contact: https://supabase.com/contact-us (technical help)"
+      ]
+    },
+    "leadership": [
+      {
+        "name": "Tracy Lane",
+        "title": "General Counsel, Supabase, Inc.",
+        "linkedin_url": null
+      }
+    ],
+    "data_confidence_score": 0.62,
+    "pages_crawled": [
+      "https://supabase.com/",
+      "https://supabase.com/company",
+      "https://supabase.com/solutions/innovation-teams",
+      "https://supabase.com/contact/sales",
+      "https://supabase.com/contact-us",
+      "https://supabase.com/pricing"
+    ],
+    "errors": []
+  },
+  {
+    "domain": "vapi.ai",
+    "company_overview": "Vapi is a voice AI platform that enables developers and enterprises to build, deploy, and improve advanced voice agents at scale. It provides a unified platform with orchestration, real-time monitoring, telephony integrations, and enterprise-grade infrastructure supporting over 1 billion calls.",
+    "target_audience": "Software developers, product teams, and enterprise organizations (including Fortune 100 companies) looking to build and deploy voice AI agents for use cases such as customer support, lead qualification, appointment scheduling, healthcare, staffing, and marketplace applications.",
+    "contact_points": {
+      "emails": [],
+      "other_contacts": [
+        "Phone: 1-877-HEY-VAPI",
+        "Community Discord support (Build tier)",
+        "Email support (Build tier)",
+        "Dedicated account team (Scale tier)",
+        "Contact sales form available on website"
+      ]
+    },
+    "leadership": [
+      {
+        "name": "Jason Mitura",
+        "title": "VP of Software Development (Ring \u2014 customer, not Vapi leadership)",
+        "linkedin_url": null
+      },
+      {
+        "name": "Alejandro Maza",
+        "title": "Chief Product & AI Officer, Kavak (customer, not Vapi leadership)",
+        "linkedin_url": null
+      }
+    ],
+    "data_confidence_score": 0.45,
+    "pages_crawled": [
+      "https://vapi.ai/",
+      "https://vapi.ai/pricing"
+    ],
+    "errors": []
+  }
+]
